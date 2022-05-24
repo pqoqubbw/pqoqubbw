@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitry Tovstokory</h1>
 <h3 align="center">React Developer</h3>
 
-- 🌱 I’m currently learning **React and Apollo**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me [**pqoqubbw@gmail.com**](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=pqoqubbw@gmail.com)
 
